@@ -1,6 +1,6 @@
 # 🚀Java-Programming
  
-Welcome to my awesome Java repository! This project is all about Java programming, and I've sprinkled it with some delightful emojis. 😄
+Welcome to my awesome Java repository! This project is all about Java programming.
 
 ## Features
 
