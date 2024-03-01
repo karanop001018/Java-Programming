@@ -25,6 +25,6 @@ This project is licensed under the **Artistic 2.0 License**. See LICENSE for det
 
 ## Contact
 
-Have questions? Reach out to me on Twitter: @YourTwitterHandle 🐦
+Have questions? Reach out to me on LinkedIn: https://www.linkedin.com/in/karan-patel-16700a215/
 
 Happy coding! 🎉
